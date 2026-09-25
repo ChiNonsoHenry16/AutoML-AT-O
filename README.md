@@ -1,4 +1,4 @@
-# Cost-Constrained Adversarial Training for Online IoT Intrusion Detection
+# Evasion Attacks on Cost-Utility-Based Adversarial Training for Online AutoML in IoT Networks
 
 Research code and experimental materials accompanying our study of cost-constrained adversarial training for online intrusion detection using IoTID20.
 
